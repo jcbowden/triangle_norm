@@ -1,0 +1,168 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=0
+Width=967
+Height=109
+MaxLeft=-1
+MaxTop=-1
+MaxWidth=1160
+MaxHeight=109
+ClientWidth=1152
+ClientHeight=63
+
+[WatchWindow]
+Create=1
+Visible=1
+State=0
+Left=5
+Top=256
+Width=315
+Height=224
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=307
+ClientHeight=197
+
+[ProjectManager]
+LargeButtons=1
+Column0Width=75
+Column1Width=125
+Column2Width=125
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=1
+Top=99
+Width=330
+Height=755
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=322
+ClientHeight=728
+SplitPos=147
+
+[HistoryLists\hiWatchExpression]
+Count=32
+H0=Temp2[2]
+H1=Temp2[1]
+H2=Temp2[0]
+H3=Temp1[2]
+H4=Temp1[1]
+H5=Temp1[0]
+H6=DataE[X,Y]
+H7=StartRemainder
+H8=Y2
+H9=Y3
+H10=QQQ
+H11=Extra2
+H12=NumberOfLong
+H13=NumOfLength
+H14=CurrentPos
+H15=Length2
+H16=MouseY2
+H17=FullLength
+H18=MouseY
+H19=MouseX
+H20=Y1
+H21=X1
+H22=InterSpace
+H23=NumVert
+H24=Remainder
+H25=Length
+H26=VertSingles
+H27=NumY
+H28=NumX
+H29=Start
+H30=L1
+H31=TempStr2
+
+[HistoryLists\hiOpenFile]
+Count=9
+H0=i:\delphi projects\afm3d\glantialias.pas
+H1=c:\winnt\profiles\administrator\desktop\afm3d\intelmathkernellibrary.pas
+H2=c:\winnt\profiles\administrator\desktop\all folders\opengl\bindings\bindings12\opengl.pas
+H3=c:\winnt\profiles\administrator\desktop\all folders\opengl\bindings\armis gl conversion\gl.pas
+H4=c:\winnt\profiles\administrator\desktop\opengl\bindings\bindings12\project1.dpr
+H5=c:\winnt\profiles\administrator\desktop\opengl\bindings\bindings12\unit1.pas
+H6=c:\program files\borland\bitmap16.dpr
+H7=c:\program files\borland\bitmap16.pas
+H8=c:\program files\borland\delphi 3\extrdat.dpr
+
+[HistoryLists\hiUnitAlias]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[HistoryLists\hiLibUnitAliases]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[Closed Files]
+File_0=SourceModule,'I:\Delphi Projects\AFM3D\glAntiAlias.pas',0,1,51,1,1,0,0
+File_1=SourceModule,'C:\Program Files\Borland\Delphi 3\Lib\OpenGL.pas',0,1,3300,1,3315,0,0
+File_2=SourceModule,'I:\Delphi Projects\AFM3D\AFM3D.pas',0,1,384,1,399,1,0
+File_3=SourceModule,'I:\Delphi Projects\AFM3D\ScaleBarOpt.pas',0,1,94,19,113,1,0
+File_4=SourceModule,'I:\Delphi Projects\AFM3D\Perspective.pas',0,1,192,1,112,1,0
+File_5=SourceModule,'I:\Delphi Projects\AFM3D\Colors.pas',0,1,139,1,166,1,0
+File_6=SourceModule,'I:\Delphi Projects\AFM3D\ZMag.pas',0,1,32,12,35,1,0
+File_7=SourceModule,'C:\WINNT\Profiles\Administrator\DESKTOP\All Folders\OpenGL\Bindings\Bindings12\OpenGL.pas',0,1,3357,1,3363,0,0
+File_8=SourceModule,'C:\WINNT\Profiles\Administrator\DESKTOP\All Folders\OpenGL\Bindings\Armis GL conversion\Gl.pas',0,1,1,1,1,0,0
+File_9=SourceModule,'C:\WINNT\Profiles\Administrator\DESKTOP\OpenGL\Bindings\Bindings12\AFM3Dgl.dpr',0,1,1,1,11,0,0
+
+[Modules]
+Module0=I:\Delphi Projects\Triangle Normal Finder\Norm1.pas
+Module1=I:\Delphi Projects\Triangle Normal Finder\NormFinder.dpr
+Count=2
+EditWindowCount=1
+
+[I:\Delphi Projects\Triangle Normal Finder\Norm1.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[I:\Delphi Projects\Triangle Normal Finder\NormFinder.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=208
+Top=30
+Width=919
+Height=876
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=911
+ClientHeight=849
+SplitPos=50
+MessagePane=0
+ViewCount=1
+CurrentView=0
+View0=0
+
+[View0]
+Module=I:\Delphi Projects\Triangle Normal Finder\Norm1.pas
+CursorX=25
+CursorY=141
+TopLine=136
+LeftCol=1
+
+[Watches]
+Count=6
+Watch0='Temp1[0]',256,0,18,1
+Watch1='Temp1[1]',256,0,18,1
+Watch2='Temp1[2]',256,0,18,1
+Watch3='Temp2[0]',256,0,18,1
+Watch4='Temp2[1]',256,0,18,1
+Watch5='Temp2[2]',256,0,18,1
+
+[Breakpoints]
+Count=0
+
